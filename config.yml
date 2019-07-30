@@ -1,0 +1,9 @@
+###################################################
+# HandyTorch Configuration File  # Made by Tiffaa #
+###################################################
+
+# List of Materials that will emit light in off hand :
+Glowing-items:
+  - TORCH
+  - GLOWSTONE
+  - SEA_LANTERN

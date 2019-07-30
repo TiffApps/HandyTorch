@@ -1,0 +1,8 @@
+name: HandyTorch
+version: 0.2
+author: Tiffaa
+main: io.github.tiffaamc.handytorch.HandyTorch
+depends: [LightAPI]
+commands:
+  handytorch:
+    aliases: [htorch]
